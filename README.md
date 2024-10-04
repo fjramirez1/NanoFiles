@@ -1,4 +1,4 @@
-# NanoFiles
+# NanoFiles - Proyecto de prácticas de Redes de Comunicaciones
 
 ## Descripción
 
