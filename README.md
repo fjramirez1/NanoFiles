@@ -28,4 +28,4 @@ El proyecto incluye dos ficheros ejecutables:
    ```bash
    java -jar NanoFiles.jar <nombre_del_directorio>
 
-
+Asegúrate de reemplazar <nombre_del_directorio> con el nombre del directorio que deseas utilizar. Este directorio será utilizado por el peer para compartir archivos. Si el directorio no existe, el sistema lo creará automáticamente.
