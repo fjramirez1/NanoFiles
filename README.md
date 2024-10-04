@@ -22,3 +22,10 @@ El proyecto incluye dos ficheros ejecutables:
 
    ```bash
    java -jar Directory.jar
+
+2. **Ejecutar el Cliente**:
+
+   ```bash
+   java -jar NanoFiles.jar <nombre_del_directorio>
+
+
